@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+   <Pause length='2'/>
+  <Say voice="alice" language="es-ES">1</Say>
+   <Pause length='1'/>
+  <Say voice="alice" language="es-ES">2</Say>
+   <Pause length='1'/>
+  <Say voice="alice" language="es-ES">3</Say>
+   <Pause length='1'/>
+  <Say voice="alice" language="es-ES">4</Say>
+</Response>
